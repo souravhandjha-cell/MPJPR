@@ -1,11 +1,5 @@
-MPJPR WEBSITE
-=============
-Open index.html in a browser to preview the website.
-
-This is a static, mobile-responsive starter website for:
-Madhya Pradesh Journal of Pharmaceutical Research (MPJPR)
-
-Important:
-- ISSN, DOI and indexing are intentionally shown as pending.
-- Verify all editorial-board qualifications/affiliations and obtain consent before publication.
-- The current submission method is the official email; an online submission system can be added later.
+MPJPR multi-page website
+Upload ALL files in this folder to the root of the GitHub repository.
+Important: keep index.html in the root.
+Each top navigation item now opens its own page:
+About, Aims & Scope, Editorial Board, Author Guidelines, Submit Manuscript, Current Issue, Policies, Contact.
